@@ -129,9 +129,6 @@ if __name__ == "__main__":
     set_csv(args.fasta)
     device = args.device
     Path_Model = args.model_path
-    # set_csv('/home/songyd/LMDisorder/github/example/demo.fasta')
-    # device = 'cpu'
-    #Path_Model = '/home/songyd/LMDisorder/github/model/model.pkl'
 
     dataframe = pd.read_csv("../example/demo.csv", sep=',')
     LMDisorder(dataframe,device,Path_Model)

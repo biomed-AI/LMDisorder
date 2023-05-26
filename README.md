@@ -26,9 +26,21 @@ We also provide the corresponding canonical prediction results in ```./example/d
 We provide the datasets and the trained LMDisorder models here for those interested in reproducing our paper. The datasets used in this study are stored in ```./datasets/```.
 The trained LMDisorder models can be found under ```./model/```.
 # Citation and contact
+Citation: 
 ```bibtex
+@article{10.1093/bib/bbad173,
+    author = {Song, Yidong and Yuan, Qianmu and Chen, Sheng and Chen, Ken and Zhou, Yaoqi and Yang, Yuedong},
+    title = "{Fast and accurate protein intrinsic disorder prediction by using a pretrained language model}",
+    journal = {Briefings in Bioinformatics},
+    year = {2023},
+    month = {05},
+    issn = {1477-4054},
+    doi = {10.1093/bib/bbad173},
+    url = {https://doi.org/10.1093/bib/bbad173    
+}
 ```
 
 Contact:
+
 Yidong Song (songyd6@mail2.sysu.edu.cn)  
 Yuedong Yang (yangyd25@mail.sysu.edu.cn)

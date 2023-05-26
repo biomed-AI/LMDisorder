@@ -28,6 +28,6 @@ The trained LMDisorder models can be found under ```./model/```.
 # Citation and contact
 ```bibtex
 ```
-Contact:
+Contact: 
 Yidong Song (songyd6@mail2.sysu.edu.cn)  
 Yuedong Yang (yangyd25@mail.sysu.edu.cn)

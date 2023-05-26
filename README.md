@@ -36,7 +36,7 @@ Citation:
     month = {05},
     issn = {1477-4054},
     doi = {10.1093/bib/bbad173},
-    url = {https://doi.org/10.1093/bib/bbad173    
+    url = {https://doi.org/10.1093/bib/bbad173}    
 }
 ```
 
